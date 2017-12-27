@@ -10,7 +10,7 @@ The result was a very interesting head to head race with another student called 
 **Carsten Grimm's results**:
 ![](carsten_grimm_optimize.jpg)
 
-Here you can (very likely) find one of the two winning codes of the ISDC October 2017 cohort.
+Here you can find one of the two (very likely) winning codes of the ISDC October 2017 cohort.
 
 Although it cost me a lot of hairs the whole idea was really a great fun :).
 
