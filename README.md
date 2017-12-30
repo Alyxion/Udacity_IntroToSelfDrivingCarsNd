@@ -45,16 +45,16 @@ The following rated projects were part of this nanodegree:
 3. **Translation of a Python Histogram Filter to C++**
     - [Source](4_6_Project_3_Translate_Python_To_C)
     - [Rating](4_6_Project_3_Translate_Python_To_C/Project_3_Review.pdf)
-4. **A* routing algorithm in Python**
-    - [Source](6_4_Project_4_Route_Planner)
+4. **A Star routing algorithm in Python**
+    - [Source](6_4_Project_4_Route_Planner/project_notebook.ipynb)
     - [Rating](6_4_Project_4_Route_Planner/Project_4_Review.pdf)
 5. **Computer Vision based Traffic Light Classifier**
-    - [Source](8_2_Project_5_Traffic_Light_Classifier)
+    - [Source](8_2_Project_5_Traffic_Light_Classifier/Traffic_Light_Classifier.ipynb)
     - [Rating](8_2_Project_5_Traffic_Light_Classifier/Project_5_Review.pdf)
 
 ---
 
-###Optional projects###
+## Optional projects ##
 
 - **Histogram filter optimization contest**
     - [Source](5_3_Optimize_Histogram_Filter_Cpp)
