@@ -12,7 +12,7 @@ All data files provided here are Copyright (C) Udacity, all modifications of the
 
 Please do neither copy nor clone any of these files and majorly with respect to Udacity's honor code do not use any of the solutions provided here in any of your rated projects.
 
-You are of course welcome to learn from the files provided here and even more welcome to let me know if you are a student of the ISDC as well and have improvement ideas for the really tougher projects. :) 
+You are of course welcome to learn from the files provided here and even more welcome to let me know if you are a student of the ISDC as well and have improvement ideas for the tougher projects. :) 
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/michael-ikemann/)
 
@@ -37,10 +37,24 @@ The nanodegree was subdivided into the following chapters:
 
 The following rated projects were part of this nanodegree:
 
-1. JoyRide - Reverse parking of a self-driving car
-2. Implementation of a matrix class in Python
-3. Translation of a Python histogram filter to C++
-4. Implementation of the A* routing algorithm in Python
-5. Implementation of a computer vision based traffic light classifier
+1. **JoyRide - Reverse parking of a self-driving car**
+    - [Rating](2_2_Project_1_JoyRide/Project_1_Review.pdf)
+2. **Implementation of a Matrix Class in Python**
+    - [Source](3_5_Project_2_Implement_Matrix_Class/kalman_filter_demo.ipynb)
+    - [Rating](3_5_Project_2_Implement_Matrix_Class/Project_2_Review.pdf)
+3. **Translation of a Python Histogram Filter to C++**
+    - [Source](4_6_Project_3_Translate_Python_To_C)
+    - [Rating](4_6_Project_3_Translate_Python_To_C/Project_3_Review.pdf)
+4. **A* routing algorithm in Python**
+    - [Source](6_4_Project_4_Route_Planner)
+    - [Rating](6_4_Project_4_Route_Planner/Project_4_Review.pdf)
+5. **Computer Vision based Traffic Light Classifier**
+    - [Source](8_2_Project_5_Traffic_Light_Classifier)
+    - [Rating](8_2_Project_5_Traffic_Light_Classifier/Project_5_Review.pdf)
 
- 
+---
+
+###Optional projects###
+
+- **Histogram filter optimization contest**
+    - [Source](5_3_Optimize_Histogram_Filter_Cpp)
