@@ -8,7 +8,7 @@ In this repository you can find my results of all projects and relevant exercise
 
 **Important note:**
 
-All data files provided here are Copyright (C) Udacity, all modifications of the originals Copyright (C) Michael Ikemann, if not noted otherwise.
+If not noted otherwise the originals of all source and data files provided here are Copyright (C) Udacity.
 
 Please do neither copy nor clone any of these files and majorly with respect to Udacity's honor code do not use any of the solutions provided here in any of your rated projects.
 
