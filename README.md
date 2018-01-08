@@ -65,10 +65,10 @@ The following rated projects were part of this nanodegree:
 - **Day / Night detection by color channel analysis**
     - ![](Images/ISDC_Project_5b.png)
     - ![](Images/ISDC_Project_5b2.png)
-    - [Source](8_1_Day_Night_Classification_Mini_Projects/47_Accuracy and Misclassification.ipynb)
+    - [Source](8_1_Day_Night_Classification_Mini_Projects/47_Accuracy%20and%20Misclassification.ipynb)
 - **Trajectory Reconstruction using Accelerometer**
     - ![](Images/ISDC_Project_4b.png)
-    - [Source](7_3_Keeping_Track_Mini_Projects/Keeping Track of x and y.ipynb)
+    - [Source](7_3_Keeping_Track_Mini_Projects/Keeping%20Track%20of%20x%20and%20y.ipynb)
 - **Histogram filter optimization contest**
     - ![](Images/ISDC_CPP_Contest.png)
     - [Source](5_3_Optimize_Histogram_Filter_Cpp)
