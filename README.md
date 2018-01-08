@@ -68,7 +68,7 @@ The following rated projects were part of this nanodegree:
     - [Source](8_1_Day_Night_Classification_Mini_Projects/47_Accuracy%20and%20Misclassification.ipynb)
 - **Trajectory Reconstruction using Accelerometer**
     - ![](Images/ISDC_Project_4b.png)
-    - [Source](7_3_Keeping_Track_Mini_Projects/Keeping%20Track%20of%20x%20and%20y.ipynb)
+    - [Source](7_4_Lab_Reconstructing_Trajectories/Reconstructing%20Trajectories.ipynb)
 - **Histogram filter optimization contest**
     - ![](Images/ISDC_CPP_Contest.png)
     - [Source](5_3_Optimize_Histogram_Filter_Cpp)
