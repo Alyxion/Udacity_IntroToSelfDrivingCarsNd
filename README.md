@@ -1,8 +1,9 @@
-![](Images/IntroToSelfDrivingCars.png)
+<p align=center>![](ISDC_Car.png)
+<p align=center>![](Images/ISDC_Medium.png)
 
 ---
 
-In this repository you can find my results of all projects and relevant exercises of the Udacity ISDC Nanodegree.
+In this repository you can find my results of all projects and relevant exercises of the [Udacity Intro to Self-Driving Cars Nanodegree](https://www.udacity.com/course/intro-to-self-driving-cars--nd113).
 
 ---
 
@@ -41,22 +42,18 @@ The following rated projects were part of this nanodegree:
 
 1. **JoyRide - Reverse parking of a self-driving car**
     ![](Images/ISDC_Project_1.png)
-    - [Rating](2_2_Project_1_JoyRide/Project_1_Review.pdf)
+    - [Source](2_2_Project_1_JoyRide/Project_1_Review.pdf)
 2. **Implementation of a Matrix Class in Python**
     ![](Images/ISDC_Project_2.png)
     - [Source](3_5_Project_2_Implement_Matrix_Class/kalman_filter_demo.ipynb)
-    - [Rating](3_5_Project_2_Implement_Matrix_Class/Project_2_Review.pdf)
 3. **Translation of a Python Histogram Filter to C++**
     - [Source](4_6_Project_3_Translate_Python_To_C)
-    - [Rating](4_6_Project_3_Translate_Python_To_C/Project_3_Review.pdf)
 4. **A Star routing algorithm in Python**
     ![](Images/ISDC_Project_4.png)
     - [Source](6_4_Project_4_Route_Planner/project_notebook.ipynb)
-    - [Rating](6_4_Project_4_Route_Planner/Project_4_Review.pdf)
 5. **Computer Vision based Traffic Light Classifier**
     ![](Images/ISDC_Project_5.png)
     - [Source](8_2_Project_5_Traffic_Light_Classifier/Traffic_Light_Classifier.ipynb)
-    - [Rating](8_2_Project_5_Traffic_Light_Classifier/Project_5_Review.pdf)
 
 ---
 
