@@ -1,5 +1,10 @@
-<p align=center>![](ISDC_Car.png)
-<p align=center>![](Images/ISDC_Medium.png)
+<p align="center">
+<img src="ISDC_Car.png"><br>
+</p>
+
+<p align="center" overflow="hidden">
+<img src="Images/ISDC_Medium.png">
+</p>
 
 ---
 
@@ -9,7 +14,7 @@ In this repository you can find my results of all projects and relevant exercise
 
 **Important note:**
 
-If not noted otherwise the originals of all source and data files provided here are Copyright (C) Udacity.
+If not noted otherwise the originals of all images, source code and data files provided here are Copyright (C) Udacity.
 
 Please use these files with respect to Udacity's honor code, do not destroy your own learning experience by copying & pasting theirs content into your solutions and do not claim them as your own.
 
