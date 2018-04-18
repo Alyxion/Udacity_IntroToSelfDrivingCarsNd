@@ -50,15 +50,15 @@ The following rated projects were part of this nanodegree:
     - [Source](2_2_Project_1_JoyRide/Project_1_Review.pdf)
 2. **Implementation of a Matrix Class in Python**
     ![](Images/ISDC_Project_2.png)
-    - [Source](3_5_Project_2_Implement_Matrix_Class/kalman_filter_demo.ipynb)
+    - [Source](https://alyxion.github.io/Udacity_IntroToSelfDrivingCarsNd/3_5_Project_2_Implement_Matrix_Class/kalman_filter_demo.html)
 3. **Translation of a Python Histogram Filter to C++**
     - [Source](4_6_Project_3_Translate_Python_To_C)
 4. **A Star routing algorithm in Python**
     ![](Images/ISDC_Project_4.png)
-    - [Source](6_4_Project_4_Route_Planner/project_notebook.ipynb)
+    - [Source](http://alyxion.github.io/Udacity_IntroToSelfDrivingCarsNd/6_4_Project_4_Route_Planner/project_notebook.html)
 5. **Computer Vision based Traffic Light Classifier**
     ![](Images/ISDC_Project_5.png)
-    - [Source](8_2_Project_5_Traffic_Light_Classifier/Traffic_Light_Classifier.ipynb)
+    - [Source](http://alyxion.github.io/Udacity_IntroToSelfDrivingCarsNd/8_2_Project_5_Traffic_Light_Classifier/Traffic_Light_Classifier.html)
 
 ---
 
@@ -67,10 +67,14 @@ The following rated projects were part of this nanodegree:
 - **Day / Night detection by color channel analysis**
     - ![](Images/ISDC_Project_5b.png)
     - ![](Images/ISDC_Project_5b2.png)
-    - [Source](8_1_Day_Night_Classification_Mini_Projects/47_Accuracy%20and%20Misclassification.ipynb)
+    - [Source](http://alyxion.github.io/Udacity_IntroToSelfDrivingCarsNd//8_1_Day_Night_Classification_Mini_Projects/47_Accuracy%20and%20Misclassification.html)
 - **Trajectory Reconstruction using Accelerometer**
     - ![](Images/ISDC_Project_4b.png)
-    - [Source](7_4_Lab_Reconstructing_Trajectories/Reconstructing%20Trajectories.ipynb)
+    - [Source](http://alyxion.github.io/Udacity_IntroToSelfDrivingCarsNd/7_4_Lab_Reconstructing_Trajectories/Reconstructing%20Trajectories.html)
+- **Finding edges**
+    - [Source](https://alyxion.github.io/Udacity_IntroToSelfDrivingCarsNd/8_1_Intro_Mini_Projects/41_Finding%20Edges%20and%20Custom%20Kernels.html)
+- **Greenscreen removal**
+    - [Source](http://alyxion.github.io/Udacity_IntroToSelfDrivingCarsNd/8_1_Intro_Mini_Projects/25_Green_Screen_2.html)
 - **Histogram filter optimization contest**
     - ![](Images/ISDC_CPP_Contest.png)
     - [Source](5_3_Optimize_Histogram_Filter_Cpp)
